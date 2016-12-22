@@ -1,0 +1,21 @@
+#Ossi Perä
+#246295
+#ossi.pera@student.tut.fi
+
+hiilta     :puuta
+rautaharkkoja:    rautamalmia
+      lautaa:puuta
+      rautalapio:lautaa
+rautalapio:lapionvarsi
+
+rautalapio:rautaharkkoja
+rautaharkkoja:hiilta
+lapionvarsi:lautaa
+
+#kommend
+##kommenddii
+      # komendii
+#
+   #
+
+

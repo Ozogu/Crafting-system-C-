@@ -1,0 +1,3 @@
+rautalapio:lautaa
+rautalapio:lapionvarsi
+rautalapio:rautaharkkoja
